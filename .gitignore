@@ -4,3 +4,6 @@ key.txt.pub
 MAD/MADSemesterWork/
 
 node_modules/
+
+build/
+windows/flutter/
